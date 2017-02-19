@@ -1,6 +1,6 @@
 ---
 title: Days 1 - 4 Santorini! 
-featured: /assets/images/pic03.jpg
+featured: /assets/images/IMG_1136.JPG
 layout: post
 ---
 
