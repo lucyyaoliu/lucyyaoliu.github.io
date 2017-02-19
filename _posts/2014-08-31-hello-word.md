@@ -9,4 +9,4 @@ layout: post
 <img src="/assets/images/IMG_1137.JPG" alt="Aegean Air" style="width:304px;height:228px;">
 <img src="/assets/images/IMG_1140.JPG" alt="Aegean Air" style="width:304px;height:228px;">
 <img src="/assets/images/IMG_1163.JPG" alt="Aegean Air" style="width:304px;height:228px;">
-<img src="/assets/images/IMG_1137.JPG" alt="Aegean Air" style="width:304px;height:228px;">
+<img src="/assets/images/IMG_1146.JPG" alt="Aegean Air" style="width:304px;height:228px;">
