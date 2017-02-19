@@ -1,8 +1,8 @@
 ---
-title: Ullamco Laboris minim veniam
+title: Days 1 - 4 Santorini! 
 featured: /assets/images/pic03.jpg
 layout: post
 ---
 
-<p>Ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat..</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<p>First time in Greece! Of seeing how this is a short trip, keep it to just Santorini and Athens. Being a big planner, of course each step of the trip was researched. </p>
+<p>First stop Santorini! You actually can't reach the island direct direct international flight. Aegean Air is the only airline that'll get you there by flight</p>
